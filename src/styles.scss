@@ -1,44 +1,53 @@
 .title {
-  color: #2C4251;
+	color: #2c4251;
 }
 
 .container {
-  display: flex;
-  flex-direction: row;
+	display: flex;
+	flex-direction: row;
 }
 
 .controls {
-  margin: 1em;
+	margin: 1em;
 
-  input {
-    height: 26px;
-  }
+	input {
+		height: 26px;
+	}
 
-  button {
-    padding: 5px 10px;
-    font-size: 1em;
-    background-color: #2C4251;
-    color: #EDF5FC;
-  }
+	button {
+		padding: 5px 10px;
+		font-size: 1em;
+		background-color: #2c4251;
+		color: #edf5fc;
+	}
+}
+
+.empty-label {
+	padding-left: 40px;
+}
+
+.list-header {
+	padding-left: 40px;
+	display: inline-block;
 }
 
 .list {
-  list-style: none;
+	list-style: none;
 }
 
 .todo {
-  display: flex;
-  flex-direction: row;
+	display: flex;
+	flex-direction: row;
 
-  input {
-    margin: 10px;
-  }
+	input {
+		margin: 10px;
+	}
 }
 
 .todoContent {
-  min-width: 300px;
-  text-align: center;
-  color: #2C4251;
-  border: 1px solid #2C4251;
-  padding: 3px;
+	min-width: 300px;
+	text-align: center;
+	color: #2c4251;
+	border: 1px solid #2c4251;
+	padding: 3px;
 }

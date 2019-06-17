@@ -1,4 +1,4 @@
-# Funeral Zone React Test #
+# Funeral Zone React Test
 
 Seems like one of our developers made a few mistakes while trying to build a ToDo app. It will be up to you to get this app running and figure out a few bugs within and other problems that you might find in the codebase.
 
